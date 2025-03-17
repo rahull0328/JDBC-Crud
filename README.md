@@ -4,6 +4,7 @@ A simple Java application that demonstrates **CRUD** (Create, Read, Update, Dele
 
 ---
 
+
 ## 🚀 Key Features
 
 1. **Database Connection**  
