@@ -2,6 +2,7 @@
 
 A simple Java application that demonstrates **CRUD** (Create, Read, Update, Delete) operations using **JDBC** (Java Database Connectivity). This project is console-based and designed to perform database operations efficiently with robust error handling.
 
+---
 
 ## 🚀 Key Features
 
